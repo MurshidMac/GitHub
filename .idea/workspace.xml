@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94c041cf-c005-4882-824f-30763f9544eb" name="Default" comment="" />
+    <list default="true" id="94c041cf-c005-4882-824f-30763f9544eb" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/basic.js" afterPath="$PROJECT_DIR$/js/basic.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -38,25 +40,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="basic.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/basic.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="417">
+              <caret line="96" column="1" lean-forward="true" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -100,9 +89,9 @@
         <option value="$PROJECT_DIR$/js/test.js" />
         <option value="$PROJECT_DIR$/js/practise.js" />
         <option value="$PROJECT_DIR$/example.html" />
-        <option value="$PROJECT_DIR$/js/basic.js" />
         <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/js/basic.js" />
       </list>
     </option>
   </component>
@@ -297,7 +286,7 @@
       <workItem from="1489338645645" duration="599000" />
       <workItem from="1489419871339" duration="52000" />
       <workItem from="1493027924739" duration="4851000" />
-      <workItem from="1493045443445" duration="1644000" />
+      <workItem from="1493045443445" duration="2126000" />
     </task>
     <task id="LOCAL-00001" summary="Added the necessary files to repo with update Readme.md file">
       <created>1493047275015</created>
@@ -310,7 +299,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23114000" />
+    <option name="totallyTimeSpent" value="23596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="24" width="1551" height="876" extended-state="6" />
@@ -646,14 +635,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README" />
-    <entry file="file://$PROJECT_DIR$/js/basic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -668,6 +649,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="96" column="1" lean-forward="true" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

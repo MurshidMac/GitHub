@@ -88,6 +88,17 @@ console.log(namemultiply)
 
 // Arrays and objects in javascript for better understanding
 
+var arraystarted=['string',3, true];
+
+function arrayElements(x){
+    return function(x){
+        return array[x];
+    }
+}
+x=2
+var listcall=arrayElements(x)
+
+console.log(listcall(2))
 
 
 
