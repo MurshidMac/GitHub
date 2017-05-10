@@ -100,6 +100,21 @@ var listcall=arrayElements(x)
 
 console.log(listcall(2))
 
+// Javascript has something special as well Objects
+// These are like value that has the multiple type of inbuilt values in it
+// this is Proptype and a prototype
+var objectNotations= {
+    number: 10,
+    time: 'Element'
+};
+console.log(objectNotations)
+// Oh my God i love it
+objectNotations.number;// this returns the first property of the object
+objectNotations.time;// this returns the second number of the property
+objectNotations
+
+console.log(objectNotations.number, objectNotations.time)
+
 
 
 
