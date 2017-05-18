@@ -2,6 +2,14 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Test Chrome",
+            "url": "http://localhost:9222",
+            "webRoot": "${workspaceRoot}",
+            "port": 9222
+        },
+        {
             "type": "node",
             "request": "launch",
             "name": "Launch Program",

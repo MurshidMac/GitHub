@@ -1,0 +1,26 @@
+{
+  "name": "javascript-ng",
+  "version": "1.0.0",
+  "description": "Fundemental Javascript By Murshid Hassen",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server –port 10001",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MurshidMac/GitHub.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Murshid Hassen",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MurshidMac/GitHub/issues"
+  },
+  "homepage": "https://github.com/MurshidMac/GitHub#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
