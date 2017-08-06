@@ -1,0 +1,17 @@
+{
+  "name": "unit2",
+  "version": "1.0.0",
+  "description": "Testing the variable and the parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Murshid Hassen",
+  "license": "MIT",
+  "dependencies": {
+    "traceur": "0.0.111"
+  }
+}

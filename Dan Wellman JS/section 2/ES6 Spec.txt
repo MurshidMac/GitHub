@@ -1,0 +1,22 @@
+// the New Ecmascript Specification stands
+{Added in 2014 draft}
+// NEw let keyword and the functions parameters
+// function scope and block scope variables res parameters and default parameters
+// classes and inheritances syntax // this is for replacing objects blueprints
+// functional programming
+// arrows functions
+// iterators and generator functions
+// list comprehension
+// set and map collections
+// builtin objects
+// arrays and more
+// Asynchronous programming in ES6
+// this allows us to use promises (An object which will promises us to give Asynchronous feature)
+// Async Programming plays a major part
+// ES6 objects
+// api and the methods available{proxy objects}
+// modules in javascript
+// commonjs and amd standards and import and export modules
+// es6 modules work with existing standards like amd
+// using es6 today
+// tracer in the browser

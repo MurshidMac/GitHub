@@ -25,6 +25,7 @@ function dataTypes(){
             let definetest= undefined;
             console.log(definetest);
             // there is a define function in javascript as well
-            
+            console.dirxml(number);
     }
 }
+dataTypes();

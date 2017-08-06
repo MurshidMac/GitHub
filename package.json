@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Fundemental Javascript By Murshid Hassen",
   "main": "index.html",
-  "scripts": {
-    "lite": "lite-server –port 10001",
-    "start": "npm run lite"
-  },
+  "scripts": { 
+     "dev": "lite-server", 
+     "start": "npm run lite" 
+   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MurshidMac/GitHub.git"
@@ -19,9 +19,5 @@
   "bugs": {
     "url": "https://github.com/MurshidMac/GitHub/issues"
   },
-  "homepage": "https://github.com/MurshidMac/GitHub#readme",
-  "devDependencies": {
-    "jshint": "^2.9.4",
-    "lite-server": "^2.3.0"
-  }
+  "homepage": "https://github.com/MurshidMac/GitHub#readme"
 }
